@@ -1,2 +1,2 @@
 # filevate
-private cloud based storage for smart home
+private cloud storage for smart home
